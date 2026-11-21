@@ -1,0 +1,4 @@
+interface:
+  display_name: SEO
+  short_description: Audit and improve search and AI visibility
+  default_prompt: Audit or improve this site's SEO using evidence, prioritized recommendations, safe implementation, and measurable validation.
